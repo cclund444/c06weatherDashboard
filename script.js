@@ -10,3 +10,7 @@ var getWeather = function(data) {
     // add info and api method here
     var apiUrl = ; 
 }
+
+var input = document.querySelector("#weather")
+
+var button = document.querySelector("#search")
