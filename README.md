@@ -10,8 +10,7 @@ CSS
 
 Website:
 https://cclund444.github.io/c06weatherDashboard/
-<img src="Screenshot 2021-12-07 222735.jpg>
-
+<img src="Screenshot 2021-12-07 222735.jpg">
 
 Contibution:
 
