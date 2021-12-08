@@ -1,0 +1,68 @@
+h1 {
+    text-align: center;
+    background-color:rgb(134, 134, 236);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+/* search for a city section */
+
+#search-label {
+    font-size: 24px;
+}
+
+#search-btn {
+    padding: 4px 60px;
+    margin-top: 19px;
+    margin-bottom: 30px;
+    border-radius: 8px;
+    width: 100%;
+}
+
+#search-city {
+    width: 100%;
+}
+
+#search-div {
+    border-bottom: solid rgb(138, 134, 134);
+}
+
+
+/* current city results */
+
+#current-city {
+    border: solid black 1px;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.history-buttons {
+    font-size: 18px;
+    border-radius: 5px;
+    padding: auto;
+    display: block;
+    align-content: center;
+    margin: auto;
+    padding: 0 30%;
+    margin: 8px 0;
+    background-color: rgb(134, 134, 236);
+    font-weight: bold;
+}
+
+.five-days {
+    background-color:rgb(201, 201, 219);
+    border: solid black 1px;
+    font-size: 13px;
+}
+
+.five-day-el {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.humid-margin {
+    margin-bottom: 13px;
+}
